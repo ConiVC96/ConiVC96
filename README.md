@@ -32,7 +32,8 @@ const AboutMe = {
   age: ["26"], 
   country: ["Chile"],
   languages: ["Spanish", "English" ],
-  studies: ["Bootcamp Laboratoria"]
+  studies: ["Bootcamp Laboratoria"],
+  hobbies: ["Videogames", "Gardening", "Reading" ]
 }
 if (you = "Need a Frontend Developer") {
   sendEmail("Constanzavc.96@gmail.com");
