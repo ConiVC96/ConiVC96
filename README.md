@@ -50,4 +50,5 @@ if (you = "Need a Frontend Developer") {
  <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img title="React.js" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png"  width="50" height="50"/> </a>
  <a align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img title="Firebase" src="https://cloud.githubusercontent.com/assets/7319749/20659320/3e61a2f0-b543-11e6-9076-c970470dfbd9.png" width="50" height="50"/> </a>
   <a href="https://www.figma.com/" target="_blank rel="noreferrer"" rel="noreferrer"> <img title='Figma' src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img title='Canva' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="60" height="50"/> </a>
